@@ -1,4 +1,4 @@
-## Heyy there 👋
+## Hii there 👋
 - 🔭 I’m currently working on front-end projects<br/>
 - 🌱 I’m currently learning Core Java<br/>
 - 👯 I’m looking to collaborate on frond-end projects<br/>
