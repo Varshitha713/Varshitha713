@@ -1,7 +1,7 @@
 ## Hii there 👋
 - 🔭 I’m currently working on front-end projects<br/>
 - 🌱 Learning Core Java<br/>
-- 👯 I’m looking to collaborate on frond-end projects<br/>
+- 👯 I’m looking to collaborate on front-end projects<br/>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
