@@ -1,6 +1,6 @@
 ## Hii there 👋
 - 🔭 I’m currently working on front-end projects<br/>
-- 🌱 Currently learning Core Java<br/>
+- 🌱 Learning Core Java<br/>
 - 👯 I’m looking to collaborate on frond-end projects<br/>
 
 # 💻 Tech Stack:
