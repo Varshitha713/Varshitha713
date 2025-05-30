@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Macha Varshitha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <p> <h2>✨ About Me</h2>
   
 - I'm a pre-final year pursuing B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning
