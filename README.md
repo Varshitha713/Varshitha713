@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Macha Varshitha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p> <h2>✨ About Me</h2>
+  
+- I'm a pre-final year pursuing B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning
+- Currently exploring web development and sharpening my problem-solving skills.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshitha713&label=Profile%20views&color=0e75b6&style=flat" alt="varshitha713" /> </p>
 
 ## 🏆 GitHub Trophies
