@@ -27,7 +27,6 @@
 - 📫 Reach me at: [machavarshithareddy@example.com](mailto:machavarshithareddy@example.com)
 - 📍 **Location:** Hyderabad-India
 
-
 <br>
 
 ## 🛠 Technical Skills
@@ -40,7 +39,6 @@
   </a>
 </p>
 
-<br>
 <!-- **Languages**: Java, Python, C  
 - **Web**: HTML, CSS, JS, Bootstrap  
 - **Databases**: Firebase Firestore, SQL (basic)  
