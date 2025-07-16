@@ -1,7 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 
 <!-- Name and nerd face emoji side by side -->
-<h1 align="center">Hi there, I'm Macha Varshitha <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif" height="50"/></h1>
+<h1 align="center">
+  Hi there, I'm Macha Varshitha
+  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif" height="55" />
+</h1>
+
+<h3 align="center">
+  Aspiring Java Full Stack Developer |
+  Learning, Building, and Growing 🚀
+</h3>
+
 <!--
 <img align="right" src="" width="250" alt="Coding Cat"/>
 -->
@@ -11,12 +20,12 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **B.Tech student in CSE (AI & ML)**
+- 🎓 **Final year student in CSE (AI & ML)**
 - 💡 I enjoy building projects that solve everyday problems
 - 🔧 I like working on both frontend and backend
 - 🌱 Currently exploring Firebase and working on [BookMark Manager App](https://github.com/Varshitha713/BookMark-Manager)
 - 📫 Reach me at: [machavarshithareddy@example.com](mailto:machavarshithareddy@example.com)
-- 📍 **Location:** India
+- 📍 **Location:** Hyderabad-India
 
 
 <br>
