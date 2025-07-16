@@ -1,34 +1,59 @@
-<h1 align="center">Hi 👋, I'm Macha Varshitha</h1>
-<p> <h2>✨ About Me</h2>
-  
-- I'm a pre-final year pursuing B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning
-- Currently exploring web development and sharpening my problem-solving skills.
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshitha713&label=Profile%20views&color=0e75b6&style=flat" alt="varshitha713" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varshitha713&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Hi, I'm Macha Varshitha 👋</h1>
 
-- 📫 How to reach me **machavarshithareddy@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/macha varshitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macha varshitha" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/varshithar1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="varshithar1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@machavarshithar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@machavarshithar1" height="30" width="40" /></a>
-<!--<a href="https://www.leetcode.com/machavarshithareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="machavarshithareddy" height="30" width="40" /></a>-->
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+ Welcome to my GitHub!
 
-## ✨ GSSoC'24 Extended Badges
-<a href="https://gssoc.girlscript.tech/leaderboard" rel="nofollow">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" style="max-width: 100%;"></a>
+### 👩‍💻 About Me
+
+- 🎓 B.Tech student in CSE (AI & ML)
+- 💡 I enjoy building projects that solve everyday problems
+- 🔧 I like working on both frontend and backend
+- 🌱 Currently exploring Firebase and improving my frontend skills
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
+
+### 🔧 What I'm working on
+
+- **Bookmark Manager App**  
+  A web app to organize bookmarks with login, real-time sync, and CRUD — designed mobile-first.  
+  **Tech:** `HTML`, `CSS`, `JavaScript`, `Firebase`
+
+
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
+
+## 🛠 Tech Skills
+
+- **Languages**: Java, Python, C  
+- **Web**: HTML, CSS, JS, Bootstrap  
+- **Databases**: Firebase Firestore, SQL (basic)  
+- **Tools**: Git, GitHub, VS Code, Jupyter, Firebase Console  
+- **Concepts**: DSA, OOPs, DBMS, OS  
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
+
+
+## 📈 Quick Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varshitha713&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha713&layout=compact&theme=tokyonight)
+
+
+
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
+
+## 📫 Reach Me
+
+- Email: [machavarshithareddy@gmail.com](mailto:machavarshithareddy@gmail.com)  
+- LinkedIn: [linkedin.com/in/varshitha-macha](https://www.linkedin.com/in/varshitha-macha)  
+- Portfolio: [machavarshitha.com](https://machavarshitha.com)
+
+
+
+Thanks for stopping by! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
