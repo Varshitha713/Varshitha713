@@ -6,6 +6,8 @@
   <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif" height="55" />
 </h1>
 
+
+
 <h3 align="center">
   Aspiring Java Full Stack Developer |
   Learning, Building, and Growing 🚀
@@ -18,7 +20,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Varshitha713&color=blueviolet&style=flat-square&label=Profile+Views)
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 - 🎓 **Final year student in CSE (AI & ML)**
 - 💡 I enjoy building projects that solve everyday problems
@@ -29,9 +32,8 @@
 
 <br>
 
-## 🛠 Technical Skills
-
-
+### 🛠 Technical Skills
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -75,9 +77,9 @@ Perfect for beginners looking for **Good First Issues**.
 
 </details>
 
-<br>
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <table align="center">
   <tr>
     <!-- GitHub Stats Card -->
@@ -96,7 +98,9 @@ Perfect for beginners looking for **Good First Issues**.
 
 <br>
 
-## 📫 Connect With Me
+### 📫 Connect With Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <div align="center">
 <a href="https://discord.com/users/1179807221329182780">
   <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord.gif" width="100"/>
