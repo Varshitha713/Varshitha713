@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
+
 
 <!-- Name and nerd face emoji side by side -->
 <h1 align="center">
-  Hi there, I'm Macha Varshitha
-  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif" height="55" />
+  Hi, I'm Macha Varshitha
+  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif" height="75" />
 </h1>
 
 
 
 <h3 align="center">
   Aspiring Java Full Stack Developer |
-  Learning, Building, and Growing 🚀
+  Learning, Building, and Growing!!
 </h3>
 
 <!--
@@ -20,8 +20,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Varshitha713&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### 👩‍💻 About Me
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+## 👩‍💻 About Me
 
 - 🎓 **Final year student in CSE (AI & ML)**
 - 💡 I enjoy building projects that solve everyday problems
@@ -32,8 +31,8 @@
 
 <br>
 
-### 🛠 Technical Skills
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+## 🛠 Technical Skills
+<!--<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,7 +61,14 @@ Perfect for beginners looking for **Good First Issues**.
 
 🌐 **[Live Preview](https://varshitha713.github.io/first-contrib-placement/)**  
 📂 **[View Repo & Start Contributing!](https://github.com/Varshitha713/first-contrib-placement)**
+<br>
+✨ **Contributors**
 
+<br>
+<img src="https://api.vaunt.dev/v1/github/entities/Varshitha713/repositories/first-contrib-placement/contributors?format=svg&limit=54" width="600" height="250" />
+
+  <br>
+  
 **What You Can Add:**  
 - 📌 Useful resource cards (DSA, Web Dev, Aptitude, etc.)  
 - 🖌️ Design improvements or new categories  
@@ -73,7 +79,7 @@ Perfect for beginners looking for **Good First Issues**.
 2️⃣ *Check `index.html` for card structure*  
 3️⃣ Raise issues if you spot bugs or ideas!
 
-🙌 ** Open for new ideas!**
+🙌 **Open for new ideas!**
 
 </details>
 
@@ -82,13 +88,11 @@ Perfect for beginners looking for **Good First Issues**.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <table align="center">
   <tr>
-    <!-- GitHub Stats Card -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Varshitha713&rank_icon=percentile&theme=vision-friendly-dark" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Varshitha713&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave" height="200"/>
     </td>
-    <!-- Most Commit Language Card -->
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Varshitha713&theme=transparent&hide_border=true" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varshitha713&theme=transparent" height="200"/>
     </td>
   </tr>
 </table>
@@ -98,8 +102,8 @@ Perfect for beginners looking for **Good First Issues**.
 
 <br>
 
-### 📫 Connect With Me
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+## 📫 Connect With Me
+
 
 <div align="center">
 <a href="https://discord.com/users/1179807221329182780">
