@@ -65,7 +65,7 @@ Perfect for beginners looking for **Good First Issues**.
 ✨ **Contributors**
 
 <br>
-<img src="https://api.vaunt.dev/v1/github/entities/Varshitha713/repositories/first-contrib-placement/contributors?format=svg&limit=54" width="600" height="250" />
+<img src="https://api.vaunt.dev/v1/github/entities/Varshitha713/repositories/first-contrib-placement/contributors?format=svg&limit=54" width="500" height="250" />
 
   <br>
   
