@@ -81,36 +81,25 @@ Perfect for beginners looking for **Good First Issues**.
 
 🙌 **Open for new ideas!**
 
+</details>
 
-<details>
-<summary>📈 GitHub Stats</summary>
 
-<br>
-
-<table>
+### 📈 GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Varshitha713&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave&cache_seconds=1800" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Varshitha713&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave&cache_seconds=1800" height="350"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varshitha713&theme=transparent" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varshitha713&theme=transparent" height="350"/>
     </td>
   </tr>
 </table>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha713&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph"/>
-
-<br>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Varshitha713&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/Varshitha713" width="100%"/>
-</a>
-
-</details>
-
-
+      <img src="https://render.gitanimals.org/farms/Varshitha713" width="1200" height="300"/></a>
+<br>
 
 ## 📫 Connect With Me
 
@@ -132,4 +121,3 @@ Perfect for beginners looking for **Good First Issues**.
 
 <h3 align="center" >Thanks for stopping by!👋 </h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
