@@ -18,7 +18,7 @@
 -->
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Varshitha713&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=varshitha713&abbreviated=true)
 
 ## 👩‍💻 About Me
 
@@ -81,12 +81,13 @@ Perfect for beginners looking for **Good First Issues**.
 
 🙌 **Open for new ideas!**
 
-</details>
 
+<details>
+<summary>📈 GitHub Stats</summary>
 
-### 📈 GitHub Stats
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-<table align="center">
+<br>
+
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Varshitha713&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave&cache_seconds=1800" height="200"/>
@@ -97,9 +98,19 @@ Perfect for beginners looking for **Good First Issues**.
   </tr>
 </table>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Varshitha713&utm_content=farm">
-      <img src="https://render.gitanimals.org/farms/Varshitha713" width="1200" height="300"/></a>
 <br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha713&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph"/>
+
+<br>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Varshitha713&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/Varshitha713" width="100%"/>
+</a>
+
+</details>
+
+
 
 ## 📫 Connect With Me
 
