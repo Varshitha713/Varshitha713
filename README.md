@@ -89,7 +89,7 @@ Perfect for beginners looking for **Good First Issues**.
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Varshitha713&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Varshitha713&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave&cache_seconds=1800" height="200"/>
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varshitha713&theme=transparent" height="200"/>
@@ -99,7 +99,6 @@ Perfect for beginners looking for **Good First Issues**.
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Varshitha713&utm_content=farm">
       <img src="https://render.gitanimals.org/farms/Varshitha713" width="1200" height="300"/></a>
-
 <br>
 
 ## 📫 Connect With Me
