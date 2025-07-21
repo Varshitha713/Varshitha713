@@ -34,8 +34,8 @@
 
 <br>
 
-## 🛠 Technical Skills
-<!--<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
+<h3>🛠 Tech Stack and Tools</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -87,8 +87,8 @@ Perfect for beginners looking for **Good First Issues**.
 </details>
 
 
-### 📈 GitHub Stats
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+## 📈 GitHub Stats
+
 <table align="center">
   <tr>
     <td>
