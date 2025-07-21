@@ -18,7 +18,10 @@
 -->
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=varshitha713&abbreviated=true)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varshitha713&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ## 👩‍💻 About Me
 
