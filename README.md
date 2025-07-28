@@ -64,12 +64,13 @@ Perfect for beginners looking for **Good First Issues**.
 
 🌐 **[Live Preview](https://varshitha713.github.io/first-contrib-placement/)**  
 📂 **[View Repo & Start Contributing!](https://github.com/Varshitha713/first-contrib-placement)**
-<br>
+<!--<br>
 ✨ **Contributors**
 
 <br>
 <img src="https://api.vaunt.dev/v1/github/entities/Varshitha713/repositories/first-contrib-placement/contributors?format=svg&limit=54" width="500" height="250" />
 
+  <br>-->
   <br>
   
 **What You Can Add:**  
