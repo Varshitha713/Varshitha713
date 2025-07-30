@@ -27,10 +27,11 @@
 
 - 🎓 **Final year student in CSE (AI & ML)**
 - 💡 I enjoy building projects that solve everyday problems
-- 🔧 I like working on both frontend and backend
-- 🌱 Currently exploring Firebase and working on [BookMark Manager App](https://github.com/Varshitha713/BookMark-Manager)
+- 📈 Serving as a PR for [Code Canvas](https://github.com/Varshitha713/CodeCanvas) and [first-contrib-placement](https://github.com/Varshitha713/first-contrib-placement) under GSSoC-25
+- 🌱 Currently exploring Firebase and working on [Code Canvas](https://github.com/Varshitha713/CodeCanvas) 
 - 📫 Reach me at: [machavarshithareddy@example.com](mailto:machavarshithareddy@example.com)
 - 📍 **Location:** Hyderabad-India
+<!--- 🔧 I like working on both frontend and backend-->
 
 <br>
 
