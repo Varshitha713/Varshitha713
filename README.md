@@ -27,7 +27,7 @@
 
 - 🎓 **Final year student in CSE (AI & ML)**
 - 💡 I enjoy building projects that solve everyday problems
-- 📈 Serving as a PR for [Code Canvas](https://github.com/Varshitha713/CodeCanvas) and [first-contrib-placement](https://github.com/Varshitha713/first-contrib-placement) under GSSoC-25
+- 📈 Serving as Project Admin for [Code Canvas](https://github.com/Varshitha713/CodeCanvas) and [first-contrib-placement](https://github.com/Varshitha713/first-contrib-placement) under GSSoC-25
 - 🌱 Currently exploring Firebase and working on [Code Canvas](https://github.com/Varshitha713/CodeCanvas) 
 - 📫 Reach me at: [machavarshithareddy@example.com](mailto:machavarshithareddy@example.com)
 - 📍 **Location:** Hyderabad-India
