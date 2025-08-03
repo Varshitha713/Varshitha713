@@ -9,7 +9,7 @@
 
 
 <h3 align="center">
-  Aspiring Java Full Stack Developer |
+  Aspiring Full Stack Developer |
   Learning, Building, and Growing!!
 </h3>
 
