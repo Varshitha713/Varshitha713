@@ -2,16 +2,15 @@
 
 <!-- Name and nerd face emoji side by side -->
 <h1 align="center">
-  Hi, I'm Macha Varshitha
+    Hi, I'm Macha Varshitha
   <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif" height="75" />
 </h1>
 
 
 
-<h3 align="center">
-  Aspiring Full Stack Developer |
+<!-- <h3 align="center">
   Learning, Building, and Growing!!
-</h3>
+</h3> -->
 
 <!--
 <img align="right" src="" width="250" alt="Coding Cat"/>
